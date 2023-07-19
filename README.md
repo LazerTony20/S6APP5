@@ -5,8 +5,8 @@ téléphonie cellulaire de première ou deuxième génération (bien qu’il n�
 tour et donc une seule cellule) en ce sens qu’il ne servira qu’à la transmission de la voix.
 Pour communiquer par voie hertzienne de manière efficace, il sera nécessaire de transmettre
 un signal en bande passante obtenu par modulation d’une porteuse dont la fréquence est
-suffisamment élevée. Deux options devront être explorées, soit une approche de communication analogique 
-et une approche de communication numérique. Pour l’option analogique,
+suffisamment élevée. Deux options devront être explorées, soit une approche de communication 
+analogique et une approche de communication numérique. Pour l’option analogique,
 la modulation de fréquence (MF) sera privilégiée. Cette option sera rendue plus attrayante
 que dans votre contrat précédent par l’usage d’une largeur de bande plus grande (30 kHz au
 lieu de 13 kHz) et de techniques de modulation et de démodulation différentes. Pour l’option
